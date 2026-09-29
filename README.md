@@ -367,23 +367,15 @@ Full examples detailing all usages, along with integrations with dependency modu
 
 To update the module's documentation run `make docs`
 
-## Authors
-
-Module is maintained by [these awesome contributors](https://github.com/cloudnationhq/terraform-azure-ba/graphs/contributors).
-
 ## Contributors
 
 We welcome contributions from the community! Whether it's reporting a bug, suggesting a new feature, or submitting a pull request, your input is highly valued.
 
-For more information, please see our contribution [guidelines](./CONTRIBUTING.md). <br><br>
-
-<a href="https://github.com/cloudnationhq/terraform-azure-ba/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cloudnationhq/terraform-azure-ba" />
-</a>
+For more information, please see our contribution [guidelines](./CONTRIBUTING.md).
 
 ## License
 
-MIT Licensed. See [LICENSE](https://github.com/cloudnationhq/terraform-azure-ba/blob/main/LICENSE) for full details.
+MIT Licensed. See [LICENSE](https://github.com/codectl/terraform-azure-ba/blob/main/LICENSE) for full details.
 
 ## References
 
